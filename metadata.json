@@ -1,0 +1,6 @@
+{
+  "name": "Cabuc Coffee — Upper East Side NYC",
+  "description": "Artisan Turkish coffee, baklava lattes, slow-drip cold brew, and fresh authentic pastries on Lexington Ave, New York City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
